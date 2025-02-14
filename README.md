@@ -1,5 +1,7 @@
 # E-Ticaret Sitesi
  admin panelli ticaret sitesi
+ sitenin tüm kaynak kodları ve veri tabanını uygun fiyatla aşağıdaki maailden yazarak bana ulaşabilirsini:
+ atfskmn14@gmail.com
 ![Ekran görüntüsü 2025-02-15 010730](https://github.com/user-attachments/assets/f1cdc0fc-69be-4751-880e-5843eab43598)
 ![Ekran görüntüsü 2025-02-15 010717](https://github.com/user-attachments/assets/43f9bd64-4d85-4d4a-b218-fca16b778bda)
 ![Ekran görüntüsü 2025-02-15 012203](https://github.com/user-attachments/assets/97e9f03b-48de-4a3f-b9a7-cb717d1d81f2)
